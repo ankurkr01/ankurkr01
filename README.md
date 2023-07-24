@@ -7,7 +7,7 @@
 
 <h1>hello , Ankur Singh is here  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=5753F7&size=24&lines=Hello+World+!;Web+Developer+;Blockchain+;competitive+programming)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=5753F7&size=24&lines=Hello+World+!;Fullstack+Developer+;Blockchain+Developer+;competitive+programming)](https://git.io/typing-svg)
   
 </div>
 </div>
