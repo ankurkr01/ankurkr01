@@ -15,17 +15,14 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/ankurkr01/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://twitter.com/ankurkr01" title="LinkedIn Profile"><img width="22" src="images/twitter-logo-2429.svg"> Twitter</a></code>
-
   <code><a href="https://www.instagram.com/imankurkr01/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="left">
   Hi, I'm Ankur Singh, Computer Engineer & Software Developer from India
   <br>
-  <br>
   🔬 I'm currently studying for a bachelor's degree in HNB Garhwal University
   <br>
- 
   💻 I love writing code and learn anythings about it
   <br>
   📚 I’m currently learning about Blockchain Technology
@@ -100,3 +97,6 @@
 </h4>
 
 
+  
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=nyctonio)
+ -->
