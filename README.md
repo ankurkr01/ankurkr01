@@ -1,10 +1,16 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ankurkr01.ankurkr01">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋; This+is+Ankur+Singh....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+<div align="center">
+[![linkedin badge](https://img.shields.io/badge/Ankur-Singh-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/ankurkr01)
+[![twitter badge](https://img.shields.io/badge/@ankurkr01-30302f?style=flat&logo=twitter)](https://twitter.com/ankurkr01)
+
+
+<h1>hello , Ankur Singh is here  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=5753F7&size=24&lines=Hello+World+!;Web+Developer+;Blockchain+;competitive+programming)](https://git.io/typing-svg)
+  
+</div>
+</div>
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/ankurkr01/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
