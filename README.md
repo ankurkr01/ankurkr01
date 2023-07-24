@@ -1,6 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ankurkr01.ankurkr01">
 
 <div align="center">
+
 [![linkedin badge](https://img.shields.io/badge/Ankur-Singh-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/ankurkr01)
 [![twitter badge](https://img.shields.io/badge/@ankurkr01-30302f?style=flat&logo=twitter)](https://twitter.com/ankurkr01)
 
@@ -19,7 +19,7 @@
   <code><a href="https://www.instagram.com/imankurkr01/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
-<p align="center">
+<p align="left">
   Hi, I'm Ankur Singh, Computer Engineer & Software Developer from India
   <br>
   <br>
