@@ -23,11 +23,13 @@
   <br>
   🔬 I'm currently studying for a bachelor's degree in HNB Garhwal University
   <br>
+  🔭 I’m currently working on Nextjs with Solidity
+  <br>
   💻 I love writing code and learn anythings about it
   <br>
   📚 I’m currently learning about Blockchain Technology
   <br>
-  📫 How to reach me: <a href="mailto: iankurkumarsingh@gmail.com">iankurkumarsingh@gmail.com</a>
+  📫 How to reach me: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=iankurkumarsingh@gmail.com">iankurkumarsingh@gmail.com</a>
 </p>
 
 <hr>
