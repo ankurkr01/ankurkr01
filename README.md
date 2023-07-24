@@ -27,7 +27,6 @@
   <br>
   📚 I’m currently learning about Blockchain Technology
   <br>
-
   📫 How to reach me: <a href="mailto: iankurkumarsingh@gmail.com">iankurkumarsingh@gmail.com</a>
 </p>
 
@@ -96,7 +95,3 @@
   <a href="https://github.com/ankurkr01?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
-
-  
-<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=nyctonio)
- -->
