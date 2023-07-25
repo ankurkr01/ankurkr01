@@ -40,6 +40,8 @@
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="Typescript" height="25" src="images/typescript-2.svg"></code>
+  <code><img title="Nodejs" height="25" src="images/nodejs-2.svg"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
