@@ -45,7 +45,6 @@
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="Nextjs" height="25" src="images/nextjs-icon-svgrepo-com.svg"></code>
   <code><img title="Redux" height="25" src="images/redux.svg"></code>
