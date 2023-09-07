@@ -23,7 +23,7 @@
   <br>
   🔬 I'm currently studying for a bachelor's degree in HNB Garhwal University
   <br>
-  🔭 I’m currently working on Nextjs with Solidity
+  🔭 I’m currently working on Nextjs with Solidity and Ether.Js
   <br>
   💻 I love writing code and learn anythings about it
   <br>
